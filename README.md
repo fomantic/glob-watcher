@@ -6,6 +6,10 @@
 
 # glob-watcher
 
+> ### Forked Version using updated dependencies
+> Original repo at https://github.com/gulpjs/glob-watcher
+
+
 [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![AppVeyor Build Status][appveyor-image]][appveyor-url] [![Coveralls Status][coveralls-image]][coveralls-url] [![Gitter chat][gitter-image]][gitter-url]
 
 Watch globs and execute a function upon change, with intelligent defaults for debouncing and queueing.
